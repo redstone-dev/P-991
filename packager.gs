@@ -4,7 +4,7 @@ function package(name){
   }
  var packages = "#0x" + Rand("00", "01", "02", "03")
  function getNumberOfPackages(){
-  var i;
+  var APIs = [];
    
  }
 }
