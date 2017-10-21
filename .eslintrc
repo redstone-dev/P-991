@@ -4,3 +4,4 @@
         "quotes": ["error", "double"]
     }
 }
+"extends": "eslint:recommended"
