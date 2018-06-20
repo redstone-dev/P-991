@@ -1,5 +1,5 @@
 # Hello, Packager-991!
-packager-991.github.io is a packager named Packager-991. It's a lightweight but powerful packager, so it's far than than the easiest thing on Earth to use.
+P-991 is a packager called Packager-991. It's a lightweight but powerful packager, so it's far than than the easiest thing on Earth to use.
 
 # Syntax
 ## GitHub
